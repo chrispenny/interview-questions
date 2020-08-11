@@ -2,7 +2,7 @@
 You've been provided with the following design:
 ![](./recipe.png)
 
-You have `index.html` which is the file for the HTML
+You have `index.html` which is the file for the HTML.  
 For CSS you can use `styles.scss` which will compile any SASS for you but you can also just use normal CSS too don't worry too much about it.
 
 ## Variables
