@@ -1,0 +1,13 @@
+{
+  "name": "interviewTestParcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.10"
+  },
+  "scripts": {
+    "dev": "parcel index.html"
+  }
+}
