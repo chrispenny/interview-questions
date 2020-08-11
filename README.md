@@ -1,6 +1,6 @@
 # Instructions:
 You've been provided with the following design:
-![](./recipes.png)
+![](./recipe.png)
 
 You have `index.html` which is the file for the HTML
 For CSS you can use `styles.scss` which will compile any SASS for you but you can also just use normal CSS too don't worry too much about it.
