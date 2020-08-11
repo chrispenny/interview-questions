@@ -23,13 +23,13 @@ Recipe contents provided below for ease of copy pasting:
 ## quinoa and black beans
 **Ingredients:**
 - 1/2 cup of quinoa, rinsed  
- - 1 cup water  
- - 1 tsp minced garlic (jarred)  
+- 1 cup water  
+- 1 tsp minced garlic (jarred)  
 - 1/4 tsp ground chili   
- - 1 tsp cumin  
- - 1/4 tsp salt  
- - 1 tbsp tomato puree  
- - 1 can (400g) black beans, rinsed and drained  
+- 1 tsp cumin  
+- 1/4 tsp salt  
+- 1 tbsp tomato puree  
+- 1 can (400g) black beans, rinsed and drained  
 
 **Steps:**
 - Add all ingredients except for black beans to a pot and mix together.
