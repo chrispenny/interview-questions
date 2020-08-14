@@ -9,8 +9,9 @@ For CSS you can use `styles.scss` which will compile any SASS for you but you ca
 - Background color: `#FFFBF3`
 - Dark color (fonts/lines): `#393E46`
 - Container: `1080px`
-- Header font family: `"IBM Plex Mono",monospace`
-- Body font family: `"Merriweather",serif`
+- Navigation font family: `"IBM Plex Mono",monospace`
+- Heading font family: `"Merriweather",serif`
+- Body font family: `"IBM Plex Mono",monospace`
 
 Recipe contents provided below for ease of copy pasting:
 
