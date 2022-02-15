@@ -1,11 +1,17 @@
 # Instructions:
+
 You've been provided with the following design:
+
 ![](./recipe.png)
 
-You have `index.html` which is the file for the HTML.  
-For CSS you can use `styles.scss` which will compile any SASS for you but you can also just use normal CSS too don't worry too much about it.
+Use [codepen.io](https://codepen.io) to develop this project. Codepen provides you with a basic code builder and
+preview.
+
+- All HTML elements are supported.
+- You can use vanilla CSS or any CSS Preprocessor by opening up "CSS Settings".
 
 ## Variables
+
 - Background color: `#FFFBF3`
 - Dark color (fonts/lines): `#393E46`
 - Container: `1080px`
@@ -13,15 +19,17 @@ For CSS you can use `styles.scss` which will compile any SASS for you but you ca
 - Heading font family: `"Merriweather",serif`
 - Body font family: `"IBM Plex Mono",monospace`
 
-Recipe contents provided below for ease of copy pasting:
+## Menu options
 
-**Menu options:**
 - All recipes - Links to `/`
 - Pizza - Links to `/pizza`
 - Pasta - Links to `/pasta`
 - Soups - Links to `/soups`
 
-## quinoa and black beans
+## Quinoa and black beans
+
+Recipe contents provided below for ease of copy pasting:
+
 **Ingredients:**
 - 1/2 cup of quinoa, rinsed  
 - 1 cup water  
